@@ -2,7 +2,7 @@
 ## Code du projet 4 de développeur front-end V2
 ### Compétence évaluée : Programmer en Javascript
 
-Lien vers le site : https://marilyned.github.io/MarilyneDestombes_4_22122021/starterOnly/
+Lien vers mon projet : https://marilyned.github.io/MarilyneDestombes_4_22122021/starterOnly/
 
 GameOn est une PME spécialisée dans les conférences et les concours de jeux vidéos.
 Objectif : rendre la modale du formulaire fonctionnelle afin de faciliter les inscriptions aux concours de jeux vidéos.
